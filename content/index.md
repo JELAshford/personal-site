@@ -5,6 +5,8 @@ tags:
 ---
 ## Hello world!
 
+![[logo.jpeg|200]]
+
 I want to learn things, remember them, combine them, and share them!
 
 {Learn -> Remember -> Combine -> Share}
@@ -17,4 +19,4 @@ I'm a keen runner and have been [fleeing from zombies](https://zombiesrungame.co
 
 I hope you find what you're looking for here. Perhaps [this](particle_life_demo.md) would be a fun start?
 
-<img src="./logo.jpeg" width="200">
+
