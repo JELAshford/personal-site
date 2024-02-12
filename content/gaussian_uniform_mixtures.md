@@ -14,8 +14,9 @@ Finally,  often despite the best intentions of the modeller, the underlying dist
 
 In these cases, a GMM might be fitted to data that shows clear bi-modality to identify an threshold of expression between the two expression 'states'. This threshold can then be interpreted as a way to categorise the data into "Low" and "High" expression, or similar, which allows for different downstream interpretations and analysis.
 
-%% An example figure of some expression data showing tailed behaviour %%
+[@distefano2021]
 
+%% An example figure of some expression data showing tailed behaviour %%
 ## Existing solutions
 
 ### GMM

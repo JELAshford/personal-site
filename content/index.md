@@ -1,17 +1,20 @@
 ---
-title: Welcome! It's good to see you.
+title: Welcome!
 tags:
   - welcome
-  - personal
 ---
-## Hello world
+## Hello world!
+
+![My little blue robot logo|200](logo.jpeg)
 
 I want to learn things, remember them, combine them, and share them!
 
 {Learn -> Remember -> Combine -> Share}
 
-I'll also share #personal thoughts, #projects, #lifestyle experiences I'm trying, career plans, and more!
+I'll also share my #projects, #lifestyle experiences I'm trying, career plans, and more! 
 
-I hope you find something useful here. Perhaps [this](particle_life_demo.md) would be a fun start?
+I've been fortunate to go to a few conferences and workshops during my DPhil and learn a lot/share my own work. You can check out some of my notes and thoughts at the #conferences and #workshops tags. 
 
-Currently working out how to update my version fo the site to the most recent version of Quartz - no substitiute for learning by experience!
+I'm a keen runner and have been [fleeing from zombies](https://zombiesrungame.com/zombies) since 2019, which has inspired a recent burst of [daily pixel art](zombies_run_art/zr_codex_items).
+
+I hope you find what you're looking for here. Perhaps [this](particle_life_demo.md) would be a fun start?
