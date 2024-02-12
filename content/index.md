@@ -5,8 +5,6 @@ tags:
 ---
 ## Hello world!
 
-![My little blue robot logo|200](logo.jpeg)
-
 I want to learn things, remember them, combine them, and share them!
 
 {Learn -> Remember -> Combine -> Share}
@@ -18,3 +16,5 @@ I've been fortunate to go to a few conferences and workshops during my DPhil and
 I'm a keen runner and have been [fleeing from zombies](https://zombiesrungame.com/zombies) since 2019, which has inspired a recent burst of [daily pixel art](zombies_run_art/zr_codex_items).
 
 I hope you find what you're looking for here. Perhaps [this](particle_life_demo.md) would be a fun start?
+
+<img src="./logo.jpeg" width="200">
