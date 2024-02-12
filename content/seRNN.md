@@ -12,13 +12,9 @@ Recurrent neural networks (RNNs) with 3D euclidian embedding and distance/connec
 
 $Loss = Loss_{Cross Entropy} + (Weights \odot Distances \odot Connectivity)$
 
-
-Key Q: why isn't my model getting to 100% accuracy? Am I doing something wrong? or is it a Keras/PyTorch difference? 
+Key Q: why isn't my model getting to 100% accuracy? Am I doing something wrong? or is it a Keras/PyTorch difference?
 
 ## Notes for Meeting
+
 Spherical Initialisation
 Bring up the recent GNN developmental growth paper (Risi et. al.)
-
-
-
-

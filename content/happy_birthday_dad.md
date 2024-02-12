@@ -10,7 +10,7 @@ I can still remember sitting with you as you (very patiently) walked me through 
 
 Programming has become such an important part of me, my personal life and my work, and I have you to thank for starting that spark in me.
 
-So, to remind us of that time we spent together, and hopefully to remind you how much that meant to me, I put together something familiar that we can play wherever we find ourselves! 
+So, to remind us of that time we spent together, and hopefully to remind you how much that meant to me, I put together something familiar that we can play wherever we find ourselves!
 
 Love you so much, Dad!
 
