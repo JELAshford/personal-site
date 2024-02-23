@@ -8,7 +8,7 @@ tags:
 ---
 Recurrent neural networks (RNNs) with 3D euclidian embedding and distance/connectivity based loss function term.
 
-![[./seRNN_embedding.png]]
+![[seRNN_embedding.png]]
 
 $Loss = Loss_{Cross Entropy} + (Weights \odot Distances \odot Connectivity)$
 

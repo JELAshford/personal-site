@@ -1,3 +1,8 @@
+---
+title: '"Zombies, Run!" Drawings'
+tags:
+  - art
+---
 Keeping track of what I've drawn from the "Zombies Run" story, mainly [codex](https://zrx.app/codex)/supply items: 
 
 - [x] Zombie
@@ -52,17 +57,19 @@ Keeping track of what I've drawn from the "Zombies Run" story, mainly [codex](ht
 
     ![](https://zr.ncs.sixtostart.com/press/_public/_asset/8830f23cb4108f3b9c4123262126221afec7c956-h_150_2x.png)
 
-- [ ]  Baseball Bat
+- [x]  Baseball Bat
 
 	A solid, dependable weapon. Try to resist yelling “home run” every time you take a head off with it, though.
 
     ![](https://zr.ncs.sixtostart.com/press/_public/_asset/6766df5296f250d15a171fb4bee0382b59966640-h_150_2x.png)
-
-- [ ]  Bedroll
+    ![](baseball_bat.png)
+    
+- [x]  Bedroll
 
 	It’s no sleeping bag, but in a pinch a bedroll adds that extra level of comfort when sleeping on the cold hard ground. Or the cold wet ground. Or any ground, really.
 
     ![](https://zr.ncs.sixtostart.com/press/_public/_asset/37155e0abf606f7d60a5da8983a70902f2414c47-h_150_2x.png)
+	![](bedroll.png)
 
 - [ ]  Board game
 
@@ -82,12 +89,14 @@ Keeping track of what I've drawn from the "Zombies Run" story, mainly [codex](ht
 
     ![](https://zr.ncs.sixtostart.com/press/_public/_asset/993b160aa292bfc1601601ced6177599ba1ecef3-h_150_2x.png)
 
-- [ ]  Box of Lightbulbs
+- [x]  Box of Lightbulbs
 
 	Before the outbreak, no-one gave lightbulbs a second thought. Now, they’re valuable treasure. Fragile, poorly-boxed treasure.
 
     ![](https://zr.ncs.sixtostart.com/press/_public/_asset/85e74bf4d8b5a1bee8479776a9b95a31e995a536-h_150_2x.png)
 
+	![](lightbulb.png)
+	
 - [ ]  Bottled Water
 
 	A plastic bottle containing water. The seal is unbroken - it should still be good. The label’s come off, though. Why do these things have expiry dates on them?
@@ -197,17 +206,19 @@ Keeping track of what I've drawn from the "Zombies Run" story, mainly [codex](ht
 
     ![](https://zr.ncs.sixtostart.com/press/_public/_asset/b897803f28846a34036c725ac4e40aa4a87f4278-h_150_2x.png)
 
-- [ ]  Fuel Can
+- [x]  Fuel Can
 
 	An emergency fuel canister. It’s made from dark green plastic, and is in surprisingly good shape. It’s still mostly full. This is a valuable find.
 
     ![](https://zr.ncs.sixtostart.com/press/_public/_asset/95fa36cabf6c9dafac9c2a3c63526efaddbd2214-h_150_2x.png)
-
-- [ ]  Firewood
+    ![](fuel_can.png)
+    
+- [x]  Firewood
 
 	It used to be a Louis XIV chair, but the owner isn’t going to complain if you take an axe to it. In fact, by the sound of that cough, you may need to take an axe to the owner.
 
     ![](https://zr.ncs.sixtostart.com/press/_public/_asset/6e98f79c1066f126f2b0dbc1c0c81dad0f0a5db9-h_150_2x.png)
+	![](firewood.png)
 
 - [ ]  Firestarters
 
@@ -221,12 +232,13 @@ Keeping track of what I've drawn from the "Zombies Run" story, mainly [codex](ht
 
     ![](https://zr.ncs.sixtostart.com/press/_public/_asset/607045bf6ab105a5ae7e9547543229bc0dcaf288-h_150_2x.png)
 
-- [ ]  Glasses
+- [x]  Glasses
 
 	One of the lenses is missing, but that’s okay because the other one is a ludicrously strong prescription. Whoever used to own these, chances are they won’t have survived long without them...
 
     ![](https://zr.ncs.sixtostart.com/press/_public/_asset/0e7a8cb5365bd7486f1c3c720da3951a3e403178-h_150_2x.png)
-
+	![](glasses.png)
+	
 - [ ]  Hairbrush
 
 	The more of these you can find, the less likely it is that there will be a repeat of the Great Summer Nits Outbreak. At least they’re easier to kill than zombies.
@@ -239,11 +251,12 @@ Keeping track of what I've drawn from the "Zombies Run" story, mainly [codex](ht
 
     ![](https://zr.ncs.sixtostart.com/press/_public/_asset/f4e0abc2d5015f1668e2394914b1cca3788f9167-h_150_2x.png)
 
-- [ ]  Horse shoe
+- [x]  Horse shoe
 
 	Allegedly, these bring the bearer good luck. Hopefully a bit more luck than the poor horse who lost it in the first place.
 
     ![](https://zr.ncs.sixtostart.com/press/_public/_asset/fbc0a98faa059aecc4d18005565226239f902a6b-h_150_2x.png)
+	![](horse_shoe.png)
 
 - [ ]  Insulin
 
@@ -281,11 +294,13 @@ Keeping track of what I've drawn from the "Zombies Run" story, mainly [codex](ht
 
     ![](https://zr.ncs.sixtostart.com/press/_public/_asset/258e164be4fef94f73c9467734f087ffe6e1139a-h_150_2x.png)
 
-- [ ]  Matches
+- [x]  Matches
 
 	Each match is a wee beacon of hope, symbolising light and life and impending baked beans.
 
     ![](https://zr.ncs.sixtostart.com/press/_public/_asset/f2f60b0489dd2ce45602c2de3565e7a5daa1b91b-h_150_2x.png)
+
+	![](matches.png)
 
 - [ ]  Air Recycling Filter
 
@@ -780,11 +795,12 @@ Keeping track of what I've drawn from the "Zombies Run" story, mainly [codex](ht
 
     ![](https://zr.ncs.sixtostart.com/press/_public/_asset/715db3e7a2f20051816872de89f34922e7855454-h_150_2x.png)
 
-- [ ]  Notebook
+- [x]  Notebook
 
 	You only start to notice how important paper is when it begins to run out - that’s when you learn just how much more economical you can be with the space, filling every nook and cranny of a page with notes, doodles and diagrams. Make the most of this notebook.
 
     ![](https://zr.ncs.sixtostart.com/press/_public/_asset/6ff2ac9487af31fc16c30b2fcede6f6c145a51bc-h_150_2x.png)
+	![](notebook.png)
 
 - [ ]  Pain Meds
 
@@ -866,12 +882,13 @@ Keeping track of what I've drawn from the "Zombies Run" story, mainly [codex](ht
 
     ![](https://zr.ncs.sixtostart.com/press/_public/_asset/a151c0f2f75df81d55c9563a0131bd5e5cea329e-h_150_2x.png)
 
-- [ ]  Saucepan
+- [x]  Saucepan
 
 	Janine managed to keep her kitchen well-stocked with saucepans, but this will definitely come in handy as a pretend astronauts helmet for the kids of Abel. With the world in ruins, they dream of escaping into space. Not a bad idea, actually. Shame there are no rocket scientists in the Township.
 
     ![](https://zr.ncs.sixtostart.com/press/_public/_asset/742fc043a40bbca4c97bacb2d8f30b22de3a2ec8-h_150_2x.png)
-
+	![](saucepan.png)
+	
 - [ ]  Seeds
 
 	A clear bag full of a variety of seeds. The unlabelled tin can of the natural world. It’s not clear whether to plant them in the vegetable plot or the flower bed.
@@ -1017,12 +1034,13 @@ Keeping track of what I've drawn from the "Zombies Run" story, mainly [codex](ht
 
     ![](https://zr.ncs.sixtostart.com/press/_public/_asset/07f3a74c2f8002beb706f0c6f9651fc0b3835fe2-h_150_2x.png)
 
-- [ ]  USB Key
+- [x]  USB Key
 
 	There are still working computers, but the only current method of transmitting large amounts of data is manual. That’s why portable data storage like this is so valuable.
 
     ![](https://zr.ncs.sixtostart.com/press/_public/_asset/060bc3c0174677a5eaa217c7605b1c4ff7627747-h_150_2x.png)
-
+	![](usb_key.png)
+	
 - [ ]  Vitamins
 
 	An old bottle of SuperTed one-a-day multivitamins. Miraculously, it’s still sealed. Whoever owned this before civilisation fell must’ve been a collector.
